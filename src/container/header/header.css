@@ -1,5 +1,6 @@
 .gtp3__header{
     display: flex;
+    background-color: red;
 }
 
 .gtp3__header-content{
