@@ -75,7 +75,7 @@ color: #FFFFFF;
 
 .gpt3__footer-links-logo  p{
     font-family: var(--font-family);
-    font-size: 15px;
+    font-size: 12px;
     line-height: 14px;
     color: #fff;
     
@@ -93,13 +93,14 @@ color: #FFFFFF;
     font-family: var(--font-family);
     font-size: 14px;
     font-weight: 16px;
-    color: #fff;
+    /* color: #fff; */
+    color: red;
     margin-bottom: 1rem;
 }
 
 .gpt3__footer-links-div p{
     font-family: var(--font-family);
-    font-size: 15px;
+    font-size: 12px;
   line-height: 14px;
 
   color: #FFFFFF;
