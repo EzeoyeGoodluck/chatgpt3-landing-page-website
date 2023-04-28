@@ -93,7 +93,8 @@ color: #FFFFFF;
     font-family: var(--font-family);
     font-size: 14px;
     font-weight: 16px;
-    color: #fff;
+    /* color: #fff; */
+    color: red;
     margin-bottom: 1rem;
 }
 
